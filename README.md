@@ -29,4 +29,4 @@ Repositoria referente a aula de Engenharia de Software, para aprimorar os conhec
 
 ## 👟 Próximos passo:
 - [ ] Questão 3: Verificar se a letra é uma vogal ou consoante.
-- [ ] Questão 4: leia três números e mostrar o maior deles.
+- [ ] Questão 4: Leia três números e mostrar o maior deles.

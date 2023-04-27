@@ -27,6 +27,6 @@ Repositoria referente a aula de Engenharia de Software, para aprimorar os conhec
 4. Executar o arquivo com funcionalidade
 ```
 
-## 👟 Próximos passo:
+## 👟 Próximos passos:
 - [ ] Questão 3: Verificar se a letra é uma vogal ou consoante.
 - [ ] Questão 4: Leia três números e mostrar o maior deles.

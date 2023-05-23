@@ -1,5 +1,5 @@
-> *"⁠Tentar e falhar é, pelo menos, aprender. Não chegar a tentar é sofrer a inestimável perda do que poderia ter sido."* 
-> - *Geraldo Eustáquio de Souza*
+> *"Você deve pensar grande e começar pequeno."* 
+> - *Carlos "Wizard" Martins*
 
 # Atividade-Engenharia-de-Software.Java
 Repositoria referente a aula de Engenharia de Software, para aprimorar os conhecimentos em documentação e Github. Este é um projeto feito por mim, com 4 programas com diferentes funcionalidades:<br><br>
